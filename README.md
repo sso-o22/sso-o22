@@ -1,5 +1,7 @@
 ### Hi there 👋
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+
+![reversal](https://capsule-render.vercel.app/api?type=waving&color=auto&text=WELCOME&fontColor=111111)
+
 <!--
 **sso-o22/sso-o22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
