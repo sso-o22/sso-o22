@@ -4,8 +4,17 @@
 * (2017.02) 남성여자고등학교 졸업<br>
 * (2022.02) 동아대학교 전자공학과 졸업<br>
 
+
 ## 📓 Experience
 * (2023.01.30 ~ 2023.09.01) 부경대학교 윈도우 플랫폼기반 IoT 시스템 개발자 과정 <br>
+
+
+## 📚 Skill
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/csharp-239120?style=flat-square&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+
+
+## 🔨 Tools
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"> <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 
 
 ## 📝 Projects
@@ -14,12 +23,6 @@
  📌 [Bustop Arduino ( Arduino / nodeMCU )](https://github.com/PKNU-IOT3/bustop_Arduino)<br>
  📌 [WPF ToyProject ( C# / WPF )](https://github.com/ZZO-ZHO/pknu-wpf-2023)<br>
 
-
-## 📚 Skill
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/csharp-239120?style=flat-square&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-
-## 🔨 Tools
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"> <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 
 --------------------
 
