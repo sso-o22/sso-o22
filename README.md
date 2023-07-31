@@ -1,4 +1,4 @@
-<div align="center">
+
   
 ![reversal](https://capsule-render.vercel.app/api?type=waving&color=D3EBC6&height=150&text=Welcome%20to%20sso-o22%20Git%20💚&fontColor=B7B8B6&animation=twinkling&fontSize=40&fontAlign=32&fontAlignY=30&stroke=000000&strokeWidth=1)
 
