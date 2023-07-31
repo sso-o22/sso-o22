@@ -18,11 +18,10 @@
 
 
 ## 📝 Projects
- 📌 [Final Project ( C / Arduino )](https://github.com/ZZO-ZHO/final_project)<br>
- 📌 [Bustop PyQt ( Python / PyQt )](https://github.com/PKNU-IOT3/bustop_PyQT)<br>
- 📌 [Bustop Arduino ( Arduino / nodeMCU )](https://github.com/PKNU-IOT3/bustop_Arduino)<br>
- 📌 [WPF ToyProject ( C# / WPF )](https://github.com/ZZO-ZHO/pknu-wpf-2023)<br>
-
+ 📌 [WPF ToyProject ( C# / WPF )](https://github.com/sso-o22/PKNU_WPF)<br>
+ 📌 [Capstone_Design ( C / Arduino )](https://github.com/sso-o22/Capstone_Design)<br>
+ 📌 [Smart_Campus ( C# / WPF )](https://github.com/Tarel-IoT-PK/Campus)<br>
+ 
 
 --------------------
 
