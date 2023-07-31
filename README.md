@@ -19,7 +19,6 @@
 
 
 <h2>📚 Studying 📚</h2>
-<div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">     
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">   
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> 
@@ -34,7 +33,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 <br><br></div><br><br></div><br><br></div>
   
-<div align="center">
+
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sso-o22&theme=gruvbox&show_icons=true)<br>
   
