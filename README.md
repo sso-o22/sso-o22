@@ -4,18 +4,16 @@
 * (2017.02) 남성여자고등학교 졸업<br>
 * (2022.02) 동아대학교 전자공학과 졸업<br>
 
- --------------------
+
 ## 📓 Experience
 * (2023.01.30 ~ 2023.09.01) 부경대학교 윈도우 플랫폼기반 IoT 시스템 개발자 과정 <br>
 
- --------------------
+
 ## 📝 Projects
  📌 [Final Project ( C / Arduino )](https://github.com/ZZO-ZHO/final_project)<br>
  📌 [Bustop PyQt ( Python / PyQt )](https://github.com/PKNU-IOT3/bustop_PyQT)<br>
  📌 [Bustop Arduino ( Arduino / nodeMCU )](https://github.com/PKNU-IOT3/bustop_Arduino)<br>
  📌 [WPF ToyProject ( C# / WPF )](https://github.com/ZZO-ZHO/pknu-wpf-2023)<br>
-
-
 
 
 <h2>📚 Studying</h2>
