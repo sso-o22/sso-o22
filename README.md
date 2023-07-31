@@ -22,8 +22,8 @@
 <h2>🔨 Tools</h2>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"><img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
   
+--------------------
 
-  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sso-o22&theme=gruvbox&show_icons=true)<br>
   
 
