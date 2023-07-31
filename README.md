@@ -2,6 +2,24 @@
   
 ![reversal](https://capsule-render.vercel.app/api?type=waving&color=D3EBC6&height=150&text=Welcome%20to%20sso-o22%20Git%20💚&fontColor=B7B8B6&animation=twinkling&fontSize=40&fontAlign=32&fontAlignY=30&stroke=000000&strokeWidth=1)
 
+## 🏫 Education
+* (2017.02) 남성여자고등학교 졸업<br>
+* (2022.02) 동아대학교 전자공학과 졸업<br>
+
+ --------------------
+## 📓 Experience
+* (2023.01.30 ~ 2023.09.01) 부경대학교 윈도우 플랫폼기반 IoT 시스템 개발자 과정 <br>
+
+ --------------------
+## 📝 Projects
+ 📌 [Final Project ( C / Arduino )](https://github.com/ZZO-ZHO/final_project)<br>
+ 📌 [Bustop PyQt ( Python / PyQt )](https://github.com/PKNU-IOT3/bustop_PyQT)<br>
+ 📌 [Bustop Arduino ( Arduino / nodeMCU )](https://github.com/PKNU-IOT3/bustop_Arduino)<br>
+ 📌 [WPF ToyProject ( C# / WPF )](https://github.com/ZZO-ZHO/pknu-wpf-2023)<br>
+
+
+
+
 <h2>📚 Studying 📚</h2>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">     
